@@ -4,3 +4,4 @@ data
 lightning_logs
 
 .DS_Store
+__pycache__
