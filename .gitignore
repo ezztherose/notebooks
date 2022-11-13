@@ -2,3 +2,5 @@ data
 *.pyc
 .ipynb_checkpoints
 lightning_logs
+
+.DS_Store
